@@ -4,6 +4,10 @@ body
     text-align: center;
     font-family: 'Corier';
 }
+#cabecera
+{
+    background: #c300ff;
+}
 #contariner
 {
     width: 70;
